@@ -1,42 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on sleeping cat</title>
+        <title>Tags on hutututu</title>
         <link>https://asl-hutututu.github.io/tags/</link>
-        <description>Recent content in Tags on sleeping cat</description>
+        <description>Recent content in Tags on hutututu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>sleeping cat</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://asl-hutututu.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>https://asl-hutututu.github.io/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://asl-hutututu.github.io/tags/css/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Html</title>
-        <link>https://asl-hutututu.github.io/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://asl-hutututu.github.io/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
+        <copyright>hutututu</copyright>
+        <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://asl-hutututu.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown</title>
         <link>https://asl-hutututu.github.io/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://asl-hutututu.github.io/tags/markdown/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://asl-hutututu.github.io/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://asl-hutututu.github.io/tags/themes/</guid>
         <description></description>
         </item>
         <item>
