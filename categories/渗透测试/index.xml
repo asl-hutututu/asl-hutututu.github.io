@@ -7,14 +7,25 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>hutututu</copyright>
-        <lastBuildDate>Tue, 08 Jul 2025 23:41:11 +0800</lastBuildDate><atom:link href="https://asl-hutututu.github.io/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>记一次getshell</title>
-        <link>https://asl-hutututu.github.io/p/%E8%AE%B0%E4%B8%80%E6%AC%A1getshell/</link>
-        <pubDate>Tue, 08 Jul 2025 23:41:11 +0800</pubDate>
+        <lastBuildDate>Thu, 10 Jul 2025 19:25:46 +0800</lastBuildDate><atom:link href="https://asl-hutututu.github.io/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>渗透测试思路</title>
+        <link>https://asl-hutututu.github.io/p/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%80%9D%E8%B7%AF/</link>
+        <pubDate>Thu, 10 Jul 2025 19:25:46 +0800</pubDate>
         
-        <guid>https://asl-hutututu.github.io/p/%E8%AE%B0%E4%B8%80%E6%AC%A1getshell/</guid>
-        <description>&lt;img src="https://asl-hutututu.github.io/p/%E8%AE%B0%E4%B8%80%E6%AC%A1getshell/1.png" alt="Featured image of post 记一次getshell" /&gt;&lt;p&gt;11&lt;/p&gt;
-&lt;p&gt;测试&lt;/p&gt;
+        <guid>https://asl-hutututu.github.io/p/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%80%9D%E8%B7%AF/</guid>
+        <description>&lt;img src="https://asl-hutututu.github.io/p/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%80%9D%E8%B7%AF/%E5%B0%81%E9%9D%A2.png" alt="Featured image of post 渗透测试思路" /&gt;&lt;h1 id=&#34;渗透测试思路&#34;&gt;渗透测试思路
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;资产为域名情况：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首先进行指纹识别，利用最新公开POC进行验证是否存在漏洞&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主要工具：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;burpsuit搭配插件mingdong&lt;/p&gt;
+&lt;p&gt;TscanPLUS（VIP版本）&lt;/p&gt;
+&lt;p&gt;天狐渗透工具箱&lt;/p&gt;
+&lt;p&gt;feroxbuster&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;子域名&#34;&gt;子域名
+&lt;/h2&gt;&lt;p&gt;域名枚举&lt;/p&gt;
+&lt;h2 id=&#34;全量指纹探测&#34;&gt;全量指纹探测
+&lt;/h2&gt;&lt;p&gt;根据指纹进行POC检测&lt;/p&gt;
 </description>
         </item>
         
